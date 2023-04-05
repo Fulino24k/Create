@@ -78,7 +78,8 @@ def q1():
     X = np.array([[2, 0], [3, 1], [7, 5], [3, 3], [5, 1]])
     Z_tilde = np.array([4, 2])
     x_test = np.array([5, 5])
-
+    
+    #print X
     
     # Compute reconstructions
     W = np.array([w1, w2])
